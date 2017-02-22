@@ -1,6 +1,5 @@
 <?php
 	//run as: php newcorpus.php [setup php file] [mysql username] [database_name]
-	//e.g.	: php newcorpus.php histpop-setup.php barona shpps
 
 	//reads the setup file defined as the first argument on the command line.
 	require_once($argv[1]);
