@@ -1,0 +1,1 @@
+<input type="text" name="searchterm[]" id="search_text" size="15" value="" />

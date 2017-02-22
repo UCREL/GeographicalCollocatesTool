@@ -1,0 +1,229 @@
+body,html {
+	margin: 0px;
+	padding: 0px;
+	font-size: 10pt;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #660000;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 18pt;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 16pt;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0px;
+	margin-bottom: 5px;
+	padding: 0px;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 14pt;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #660000;
+	padding: 5px 10px;
+	margin: 0px;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #660000;
+	color: #FFFFCC;
+	padding: 5px 10px;
+	margin: 0px;
+}
+
+.error {
+	color: #CC0033;
+	font-weight: bold;
+	padding: 5px;
+	margin: 5px;
+}
+
+div {
+	margin: 0px 10px;
+}
+
+div.none {
+	margin: 0px;
+}
+
+div.top {
+	font-weight: bold;
+	background-color: #660000;
+	color: #FFFFCC;
+	padding: 10px 15px;
+	margin: 0px;
+}
+
+div.corpusselect {
+	background-color: #884444;
+	padding: 15px;
+	margin: 5px 20px;
+	width: auto;
+	float: left;
+	border: solid 2px #FFFFCC;
+	clear: left;
+}
+
+div.form {
+	background-color: #FFFFCC;
+	color: #660000;
+	padding: 0px;
+	border-color: #660000;
+	border: solid 3px;
+	margin: 20px auto 20px 20px;
+}
+
+.clearboth {
+	clear: both;
+}
+
+.floatright {
+	float: right;
+}
+
+.floatleft {
+	float: left;
+}
+
+table {
+	padding: 0px;
+	margin: 0px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+table.data {
+	margin: 5px;
+	padding: 5px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+table.filelist {
+	margin: 10px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+th.filelist {
+	padding: 2px 8px;
+	text-align: left;
+	vertical-align: middle;
+	white-space:nowrap;
+}
+
+td.filelist {
+	padding: 2px 8px;
+	text-align: left;
+	vertical-align: middle;x
+	white-space:nowrap;
+}
+
+th.filter {
+	background-color: #660000;
+	color: #FFFFCC;
+	text-align: left;
+	padding: 2px 8px;
+	border: solid 3px #FFFFCC;
+	vertical-align: middle;
+	white-space:nowrap;
+}
+
+td.filter {
+	padding: 2px 8px;
+	border: solid 3px #FFFFCC;
+	background-color: #FFFFCC;
+	vertical-align: top;
+}
+
+th.data {
+	background-color: #660000;
+	color: #FFFFCC;
+	text-align: left;
+	padding: 2px 8px;
+	border: solid 3px #660000;
+	vertical-align: middle;
+	white-space:nowrap;
+}
+
+td {
+	padding: 2px 8px;
+	vertical-align: middle;
+}
+
+img {
+	vertical-align: middle;
+}
+
+p.code {
+	font-family: 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Monaco, Courier, monospace;
+}
+
+td.data {
+	border: solid 3px;
+	padding: 2px 8px;
+	vertical-align: middle;
+	background-color: #FFFFCC;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+fieldset {
+	width: auto;
+	border: 2px solid #884444;
+	margin: 10px 0px;
+}
+
+legend {
+	font-weight: bold;
+}
+
+#user fieldset {
+	text-align: left;
+	border: 2px solid #FFFFCC;
+	margin: 0px;
+}
+
+#user td {
+	text-align: left;
+	color: #FFFFCC;
+	border: none;
+	margin: 2px;
+}
+
+.smaller {
+	font-size: 80%;
+}
+
+A:link {text-decoration: underline; color: #660066}
+A:visited {text-decoration: underline; color: #660066}
+A:active {text-decoration: underline; color: #660066}
+A:hover {text-decoration: underline; color: #AA00AA}
+
+A.top:link {text-decoration: underline; color: #FFFFCC}
+A.top:visited {text-decoration: underline; color: #FFFFCC}
+A.top:active {text-decoration: underline; color: #FFFFCC}
+A.top:hover {text-decoration: underline; color: #FF9933}
+
+A.topnu:link {text-decoration: none; color: #FFFFCC}
+A.topnu:visited {text-decoration: none; color: #FFFFCC}
+A.topnu:active {text-decoration: none; color: #FFFFCC}
+A.topnu:hover {text-decoration: none; color: #FF9933}
+
